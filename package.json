@@ -1,0 +1,19 @@
+{
+  "name": "stream-server",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://randika1418@bitbucket.org/jcrdevelopment/stream-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jcrdevelopment/stream-server#readme",
+  "dependencies": {
+    "node-media-server": "^1.1.10"
+  }
+}
